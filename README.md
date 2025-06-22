@@ -13,7 +13,7 @@ To statistically determine whether a new version (Variant B) leads to a signific
 - Significance Level (α): Typically set at 0.05
   
 
-**  Key Features:**
+  Key Features:
 - Goal: Detect if there's a significant difference between groups.
 - Test: Two-proportion Z-test for comparing conversion rates.
 - Null Hypothesis (H₀): No difference between A and B.
